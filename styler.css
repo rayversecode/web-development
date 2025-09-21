@@ -1,0 +1,35 @@
+/* tag / element selector */
+
+
+/* h1{
+    background-color: pink;
+    font-size: 50px;
+}
+
+ul{
+    background-color: aliceblue;
+}
+
+h2{
+    background-color: aqua;
+} */ 
+
+
+
+
+
+
+
+
+/* id base selection */
+/* particular element can be selected by use of id that is unique for a paticular element */
+
+#first{
+    background-color: blanchedalmond;
+}
+
+#second{
+    background-color: aliceblue;
+}
+
+
