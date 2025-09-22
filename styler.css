@@ -33,3 +33,13 @@ h2{
 }
 
 
+
+
+
+/* class base selection */
+/* id is unique but class is used to change things in multiple elements at the same time */
+.third{
+    background-color: pink;
+}
+
+
